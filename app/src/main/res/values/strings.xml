@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarRaceGame</string>
+    <string name="score_label">Score: %1$d</string>
+    <string name="speed_label">Speed: %1$d</string>
+    <string name="game_over">Game Over!</string>
+    <string name="retry_button">Retry</string>
+    <string name="your_score">Your Score: %1$d</string>
+    <string name="high_score">High Score: %1$d</string>
+</resources>
